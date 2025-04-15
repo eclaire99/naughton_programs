@@ -21,11 +21,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 #
 # title of site appears in banner
 title: Claire Naughton, Theater Programs 
-# tagline, A small, personal collection of programs representing Western Pennsylvania theater.
+# tagline, 
 tagline: A small, personal collection of programs representing Western Pennsylvania theater.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection consists of programs from theater at the high school, community, regional, and national touring level.
+description: "This collection consists of programs from theater at the high school, community, regional, and national touring level."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Claire Naughton
 
